@@ -66,5 +66,3 @@ The lab simulates a small business network where users, groups, organizational u
 
 Project screenshots are located in the Screenshots folder.
 
-Project screenshots are located in the Screenshots folder.
-
